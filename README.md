@@ -1,1 +1,1 @@
-# Student-service
+-Description: Console application written in Python in I year of studies, application was developed from specification: this is file name of spec(Projektni zadatak - OP (3).pdf), it was requested from us to make application for students and profesors, I will translate specification to English so you can see what was requested of us to make. The reason I'm uploading this now is because we didn't use git in first year.
