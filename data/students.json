@@ -1,0 +1,131 @@
+[
+  {
+    "broj_indeksa": 1,
+    "lozinka": "sifra1",
+    "ime": "Vanja",
+    "prezime": "Petric",
+    "email": "vanjapetric@singimail.com",
+    "ocene": []
+  },
+  {
+    "broj_indeksa": 20191001,
+    "lozinka": "sifra2",
+    "ime": "Pera",
+    "prezime": "Peric",
+    "email": "peraperic@singimail.com",
+    "ocene": [
+      {
+        "sifra_predmeta": 103,
+        "sifra_profesora": 202,
+        "ocena": 6
+      },
+      {
+        "sifra_predmeta": 104,
+        "sifra_profesora": 203,
+        "ocena": 8
+      },
+      {
+        "sifra_predmeta": 105,
+        "sifra_profesora": 204,
+        "ocena": 6
+      }
+    ]
+  },
+  {
+    "broj_indeksa": 20191002,
+    "lozinka": "sifra2",
+    "ime": "Pera",
+    "prezime": "Mihailovic",
+    "email": "peraperic@singimail.com",
+    "ocene": [
+      {
+        "sifra_predmeta": 103,
+        "sifra_profesora": 202,
+        "ocena": 6
+      },
+      {
+        "sifra_predmeta": 104,
+        "sifra_profesora": 203,
+        "ocena": 8
+      },
+      {
+        "sifra_predmeta": 105,
+        "sifra_profesora": 204,
+        "ocena": 6
+      }
+    ]
+  },
+  {
+    "broj_indeksa": "20191004",
+    "lozinka": "sifra5",
+    "ime": "Nikola",
+    "prezime": "Dizdraveci",
+    "email": "dizde@gmail.com",
+    "ocene": []
+  },
+  {
+    "broj_indeksa": "20191010",
+    "lozinka": "sifra10",
+    "ime": "Petar",
+    "prezime": "Petrovic",
+    "email": "pera@gmail.com",
+    "ocene": []
+  },
+  {
+    "broj_indeksa": "20192001",
+    "lozinka": "sifra4",
+    "ime": "eena",
+    "prezime": "petric",
+    "email": "enaaaa",
+    "ocene": []
+  },
+  {
+    "broj_indeksa": "2019270089",
+    "lozinka": "nemanja99",
+    "ime": "Nemanja",
+    "prezime": "Katava",
+    "email": "nemanja.katava.19@singimail.rs",
+    "ocene": []
+  },
+  {
+    "broj_indeksa": "",
+    "lozinka": "",
+    "ime": "",
+    "prezime": "",
+    "email": "",
+    "ocene": []
+  },
+  {
+    "broj_indeksa": "123",
+    "lozinka": "lozinka1",
+    "ime": "ime1",
+    "prezime": "prezime1",
+    "email": "email1",
+    "ocene": [
+      {
+        "sifra_predmeta": 103,
+        "sifra_profesora": 200,
+        "ocena": 9
+      },
+      {
+        "sifra_predmeta": 105,
+        "sifra_profesora": 200,
+        "ocena": 10
+      }
+    ]
+  },
+  {
+    "broj_indeksa": "1234",
+    "lozinka": "lozinka2",
+    "ime": "ime2",
+    "prezime": "prezime2",
+    "email": "email2@mail2.2",
+    "ocene": [
+      {
+        "sifra_predmeta": 102,
+        "sifra_profesora": 200,
+        "ocena": 8
+      }
+    ]
+  }
+]
